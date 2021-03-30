@@ -1,6 +1,3 @@
-# Program 1
-# Write a menu-driven program to find the area and perimeter of different geometric shapes
-
 
 def area_rect(l, b):
     print("The area of the rectangle = ", l * b)
